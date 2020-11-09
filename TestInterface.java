@@ -1,14 +1,4 @@
-/* TP1 de Valeriya Popenko
-*  # matricule 1014631*/
-
 import java.util.*;
-/**
-	Pour la correction du devoir, nous allons nous batîr
-	un programme de test qui va contenir la méthode main
-	à exécuter.  L'interface sert à garantir la syntaxe
-	commune pour tous les travaux.
-
- */
 
 
 public interface TestInterface {
