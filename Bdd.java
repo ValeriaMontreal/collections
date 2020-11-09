@@ -1,6 +1,3 @@
-/* TP1 de Valeriya Popenko
-* # matricule 1014631*/
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
